@@ -93,7 +93,16 @@ repo_url: https://github.com/Andre601/mkdocs-template
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
 nav:
-  - Welcome: index.md
+  - "Introduction": index.md
+  - "Installation": installation.md
+  - "Object Painter": object_painter.md
+  - "Replacer": replacer.md
+  - "Scatter": scatter.md
+  - "Shelf Tool": shelf_tool.md
+  - "PolyCount": polycount.md
+  - "MassFX Tools": massfx_tools.md
+  - "Workflows": workflows.md
+  - "FAQ": faq.md
 
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
